@@ -1,0 +1,40 @@
+artifact_path: /Users/haber/Desktop/Tisha/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab2/mlruns/1/models/m-b641ecbaa13a4c3e8045668bcd721a0e/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.14
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 3.5.0
+model_id: m-b641ecbaa13a4c3e8045668bcd721a0e
+model_size_bytes: 20671820
+model_uuid: m-b641ecbaa13a4c3e8045668bcd721a0e
+prompts: null
+run_id: 877a1cc1e0f34568a1ab7472f2d99861
+signature:
+  inputs: '[{"type": "long", "name": "limit_bal", "required": true}, {"type": "long",
+    "name": "sex", "required": true}, {"type": "long", "name": "education", "required":
+    true}, {"type": "long", "name": "marriage", "required": true}, {"type": "long",
+    "name": "age", "required": true}, {"type": "long", "name": "pay_0", "required":
+    true}, {"type": "long", "name": "pay_2", "required": true}, {"type": "long", "name":
+    "pay_3", "required": true}, {"type": "long", "name": "pay_4", "required": true},
+    {"type": "long", "name": "pay_5", "required": true}, {"type": "long", "name":
+    "pay_6", "required": true}, {"type": "long", "name": "bill_amt1", "required":
+    true}, {"type": "long", "name": "bill_amt2", "required": true}, {"type": "long",
+    "name": "bill_amt3", "required": true}, {"type": "long", "name": "bill_amt4",
+    "required": true}, {"type": "long", "name": "bill_amt5", "required": true}, {"type":
+    "long", "name": "bill_amt6", "required": true}, {"type": "long", "name": "pay_amt1",
+    "required": true}, {"type": "long", "name": "pay_amt2", "required": true}, {"type":
+    "long", "name": "pay_amt3", "required": true}, {"type": "long", "name": "pay_amt4",
+    "required": true}, {"type": "long", "name": "pay_amt5", "required": true}, {"type":
+    "long", "name": "pay_amt6", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-20 20:42:23.142092'

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/haber/Desktop/Tisha/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab2/mlruns/376887889875909176/1a500a542037440dbdc2f6b01cd678a3/artifacts
+end_time: 1760991755040
+entry_point_name: ''
+experiment_id: '376887889875909176'
+lifecycle_stage: active
+run_id: 1a500a542037440dbdc2f6b01cd678a3
+run_name: rf_tuned_balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760991752607
+status: 3
+tags: []
+user_id: haber

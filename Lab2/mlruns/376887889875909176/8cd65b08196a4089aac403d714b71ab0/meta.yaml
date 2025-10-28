@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/haber/Desktop/Tisha/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab2/mlruns/376887889875909176/8cd65b08196a4089aac403d714b71ab0/artifacts
+end_time: 1760991695024
+entry_point_name: ''
+experiment_id: '376887889875909176'
+lifecycle_stage: active
+run_id: 8cd65b08196a4089aac403d714b71ab0
+run_name: baseline_logreg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760991692717
+status: 3
+tags: []
+user_id: haber

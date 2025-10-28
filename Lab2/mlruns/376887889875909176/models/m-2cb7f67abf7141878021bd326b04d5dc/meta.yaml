@@ -1,0 +1,10 @@
+artifact_location: file:///Users/haber/Desktop/Tisha/MLOps-main/Labs/Experiment_Tracking_Labs/Mlflow_Labs/Lab2/mlruns/376887889875909176/models/m-2cb7f67abf7141878021bd326b04d5dc/artifacts
+creation_timestamp: 1760991752901
+experiment_id: '376887889875909176'
+last_updated_timestamp: 1760991755037
+model_id: m-2cb7f67abf7141878021bd326b04d5dc
+model_type: null
+name: model
+source_run_id: 1a500a542037440dbdc2f6b01cd678a3
+status: 2
+status_message: null
